@@ -1553,3 +1553,11 @@ figure.highlight.yml .number,
 .codeblock.yml .number {
     color: #0086b3;
 }
+
+.category-item {
+    margin-left: 45px;
+    font-size: 16px;
+    display: inline-block;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
